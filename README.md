@@ -1,4 +1,3 @@
-![image](https://github.com/Vanika-08/xenonstack_task1/assets/141993407/495c2afd-2647-47c1-9100-abeb0e6bb1af)# xenonstack_task1
 Scenario There is a customer who came to you with a problem to have a custom linux
 command for his operations. Your task is to understand the problem and create a linux
 command via bash script as per the instructions.
